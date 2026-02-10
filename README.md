@@ -100,7 +100,8 @@ Data Sources → ETL Pipelines → Data Warehouse → Analytics Layer → Busine
 Data Analyst / AI Specialist
 
 📧 youssefelbayomi777@gmail.com | 📱 +20 122 130 5374 | 📍 6th of October City, Egypt  
-� [linkedin.com/in/youssefelbayomi777] | 🐙 [github.com/youssefelbayomi777-cmyk]  
+�🔗 [linkedin.com/in/youssefelbayomi777] | 🐙 [github.com/youssefelbayomi777-cmyk]  
+📱 **LinkedIn**: linkedin.com/in/youssefelbayomi777  
 📱 **WhatsApp**: 01098833068  
 
 ---
