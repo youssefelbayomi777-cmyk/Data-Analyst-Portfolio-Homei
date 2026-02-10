@@ -4,14 +4,30 @@
 
 This portfolio demonstrates comprehensive expertise in data analysis, AI/ML, and business intelligence specifically tailored for the real estate technology sector.
 
-### 📋 Portfolio Contents
+### 📋 **Portfolio Contents**
 
-- **[CV & Cover Letter](./cv/)** - Professional documents tailored for Homei Property Technology
-- **[Technical Projects](./projects/)** - Real estate analytics and ML projects
-- **[AI/ML Showcase](./ai-ml/)** - Predictive models and data pipelines
-- **[BI Dashboards](./bi-dashboards/)** - Interactive visualizations and KPIs
-- **[Documentation](./documentation/)** - Technical writing and case studies
-- **[Interview Preparation](./interview-prep/)** - Technical questions and business scenarios
+### **🎯 Technical Projects - Real Estate Technology Focus**
+- **Real Estate Analytics Dashboard** - Power BI dashboard for market analysis and KPI tracking
+- **SQL Analytics Repository** - Advanced queries for property data and business intelligence
+- **Property Price Prediction** - Machine learning model for automated valuation
+- **Data Pipeline Architecture** - Scalable ETL and data engineering solutions
+
+### **🤖 AI/ML Showcase**
+- **Predictive Modeling** - Property price prediction with 85%+ accuracy
+- **Data Engineering** - Complete pipeline from ingestion to deployment
+- **Feature Engineering** - Advanced analytics for real estate insights
+
+### **📊 Business Intelligence**
+- **Interactive Dashboard** - Real-time analytics with modern UI
+- **KPI Framework** - Comprehensive metrics for business decisions
+- **Data Visualization** - Professional charts and insights
+
+### **🔧 Technical Skills Demonstrated**
+- **Python** - Data manipulation, ML, automation
+- **SQL** - Complex queries, optimization, analytics
+- **Power BI/Tableau** - Dashboard development, DAX calculations
+- **Machine Learning** - Predictive modeling, feature engineering
+- **Data Engineering** - ETL pipelines, architecture design
 
 ### 🚀 Key Skills Demonstrated
 
