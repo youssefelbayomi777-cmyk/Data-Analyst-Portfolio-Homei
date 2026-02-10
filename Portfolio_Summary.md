@@ -181,9 +181,9 @@ Data_Analyst_Portfolio/
 
 ## 📞 **Contact Information**
 
-**Target Company**: Homei Property Technology  
+**Portfolio Owner**: Youssef Mohamed El Bayoumi  
 **Position**: Data Analyst / AI Specialist  
-**Location**: 6th of October City, Egypt  
+**Contact**: youssefelbayomi777@gmail.com | +20 122 130 5374 
 
 **Application Contacts**:
 - 📧 **Email**: Jobs@homei.online

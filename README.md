@@ -80,11 +80,11 @@ Data Sources → ETL Pipelines → Data Warehouse → Analytics Layer → Busine
 
 ## 📞 Contact Information
 
-**Portfolio prepared for**: Homei Property Technology  
-**Position**: Data Analyst / AI Specialist  
-**Location**: 6th of October City, Egypt  
+**Portfolio prepared for**: Homei Property Technology # **Youssef Mohamed El Bayoumi**
+Data Analyst / AI Specialist
 
-📧 **Email**: Jobs@homei.online  
+📧 youssefelbayomi777@gmail.com | 📱 +20 122 130 5374 | 📍 6th of October City, Egypt  
+� [linkedin.com/in/youssefelbayomi777] | 🐙 [github.com/youssefelbayomi777-cmyk]  
 📱 **WhatsApp**: 01098833068  
 
 ---
