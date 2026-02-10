@@ -96,13 +96,10 @@ Data Sources → ETL Pipelines → Data Warehouse → Analytics Layer → Busine
 
 ## 📞 Contact Information
 
-**Portfolio prepared for**: Homei Property Technology # **Youssef Mohamed El Bayoumi**
-Data Analyst / AI Specialist
+**Portfolio prepared for**: Homei Property Technology
 
-📧 youssefelbayomi777@gmail.com | 📱 +20 122 130 5374 | 📍 6th of October City, Egypt  
-�🔗 [linkedin.com/in/youssefelbayomi777] | 🐙 [github.com/youssefelbayomi777-cmyk]  
-📱 **LinkedIn**: linkedin.com/in/youssefelbayomi777  
-📱 **WhatsApp**: 01098833068  
+📧 **Email**: youssefelbayomi777@gmail.com | 📱 **Phone**: +20 122 130 5374 | 📍 **Location**: 6th of October City, Egypt  
+🔗 **GitHub**: github.com/youssefelbayomi777-cmyk  
 
 ---
 

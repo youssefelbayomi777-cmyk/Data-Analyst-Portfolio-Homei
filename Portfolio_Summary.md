@@ -183,8 +183,7 @@ Data_Analyst_Portfolio/
 
 **Portfolio Owner**: Youssef Mohamed El Bayoumi  
 **Position**: Data Analyst / AI Specialist  
-**Contact**: youssefelbayomi777@gmail.com | +20 122 130 5374  
-**LinkedIn**: linkedin.com/in/youssefelbayomi777 
+**Contact**: youssefelbayomi777@gmail.com | +20 122 130 5374 
 
 **Application Contacts**:
 - 📧 **Email**: Jobs@homei.online
